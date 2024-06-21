@@ -1,4 +1,4 @@
-# Netflix Clone
+# NetflixClone
 
 This project is a Netflix clone built using the MERN stack (MongoDB, Express.js, React.js, Node.js) and JWT authentication. It allows users to register, log in, and access a collection of movies and TV shows.
 
