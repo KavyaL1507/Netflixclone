@@ -10,12 +10,12 @@ This project is a Netflix clone built using the MERN stack (MongoDB, Express.js,
 - Authentication: JWT (JSON Web Tokens)
 
 ## Features
-User Authentication (Sign Up, Login, Logout)
-Browse Movies and TV Shows
-Search Functionality
-Video Streaming
-User Profiles
-Responsive Design
+- User Authentication (Sign Up, Login, Logout)
+- Browse Movies and TV Shows
+- Search Functionality
+- Video Streaming
+- User Profiles
+- Responsive Design
 
 ## Prerequisites
 Installation
